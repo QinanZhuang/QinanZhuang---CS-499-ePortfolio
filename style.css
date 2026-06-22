@@ -1,9 +1,5 @@
 body {
-    margin: 0;
-    background: #e6d2a8;
-    background-image: linear-gradient(to bottom, #efe3c1, #dcc08e);
-    font-family: Georgia, "Times New Roman", serif;
-    color: #333;
+    background: url("images/bg-body.jpg") repeat;
 }
 
 header {
