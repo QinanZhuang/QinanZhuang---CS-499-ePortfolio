@@ -41,7 +41,8 @@ nav a:hover {
 }
 
 .container {
-    width: 900px;
+    width: 1100px;
+    max-width: 90%;
     margin: 20px auto;
     background: #f5f5f5;
     padding: 30px;
